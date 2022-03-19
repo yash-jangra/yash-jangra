@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 On gmail- yjangra2002@gmail.com
 On LinkedIn- https://www.linkedin.com/in/yash-jangra-96a21615b/
-On instagram- https://www.instagram.com/yashxjangra/
+On instagram- https://www.instagram.com/yashjangraa/
 
 
 <!---
