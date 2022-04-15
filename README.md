@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @yash-jangra
 - 👀 I’m interested in technology, travelling and exploring.
-- 🌱 I’m currently learning C++.
-- 💞️ I'm looking for internships in any field and to learn as much as I can.
+- 🌱 I’m currently learning ML/AI.
 - 📫 How to reach me:
-On gmail- yjangra2002@gmail.com
-On LinkedIn- https://www.linkedin.com/in/yash-jangra-96a21615b/
-On instagram- https://www.instagram.com/yashjangraa/
-
+Email- yjangra2002@gmail.com
+LinkedIn- https://www.linkedin.com/in/yash-jangra-96a21615b/
 
 <!---
 yash-jangra/yash-jangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
