@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash-jangra
-- 👀 I’m interested in technology, travelling and exploring.
-- 🌱 I’m currently learning ML/AI.
+- 👀 I’m interested in technology, traveling, and exploring.
+- 🌱 I’m currently exploring the intersection of robotics and IoT.
 - 📫 How to reach me:
 Email- yjangra2002@gmail.com
 LinkedIn- https://www.linkedin.com/in/yash-jangra-96a21615b/
