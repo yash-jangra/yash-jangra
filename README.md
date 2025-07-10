@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash-jangra
-- 👀 I’m interested in technology, traveling, and exploring.
+- 👀 I’m interested in technology, traveling.
 - 🌱 I’m currently exploring the intersection of robotics and IoT.
 - 📫 How to reach me:
 Email- yjangra2002@gmail.com
